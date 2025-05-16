@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmwBX0qzexE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\WebWritterAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Рузиль\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Рузиль\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
