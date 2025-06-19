@@ -36,8 +36,6 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\wwwroot\copygen-html\package.json.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\wwwroot\copygen-html\package.json
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.staticwebassets.runtime.json
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\EntityFramework.SqlServer.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\EntityFramework.dll
@@ -75,81 +73,6 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\DataBase.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.RazorAssemblyInfo.cache
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.RazorAssemblyInfo.cs
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\whqrrgce12-79uyo4ku7f.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tspr6472tr-mye9mcq68v.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\xn5sai0ove-1865zbffm5.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dy2c1wfsrn-3d8j9bwv60.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dwslkt658y-1tzxf73h6e.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kclkx5ty2e-k9kt203xym.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ddnfh79mp7-69b26udtb3.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\vr7ho80twt-0r4i4kkjy1.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yeob9cik1g-ybbfjwnyjo.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kow8c0l7zd-7bik6qotbp.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7v7jhpkfyn-vyjs8q2wbg.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1mi8jpmzwe-jmsp8m27p4.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q1kwb7yh28-23acoez3so.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\oodaawxkel-cwt7vrsjku.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tfrp8x68f2-iekthumzg6.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7vu1cfi2b5-af3ezzzt6e.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yvlns1j0pq-hj1xx4whvu.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\i6uy0e1nre-ssp9f6gg9r.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\c87li35z85-w8y91i6v20.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8mpjfmzjsr-i279twt750.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\m2vp4guf9f-wldku4pcix.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\htp6huv45h-dth6tzd6ip.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0y50b70gg5-k12udyj1c4.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\f6fpc9ulry-94kp6ao23t.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\j91njkv1md-ztj52ofi5o.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\krot0uofru-4qb1ty9f4s.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1zm6f7sb7q-v9t9f37l74.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0fc15kddok-mjl4b5l3yw.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8zcvgivy3i-gpitvuc0ko.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\py9pjn74wb-cis3g84r62.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7pc0o2mrdy-goo0i2nmre.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7d2mfvn3o6-q60e0ns0o7.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3yb5egahea-td56v29q8e.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3cxfe7q26l-v42q302ak5.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ldfsxi5cw7-74jd0mthr3.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\fgi32ndf33-iwnyvvvycu.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cdf5hasjus-4xri5j53b1.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\chdtby0b0f-snxanasbzh.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\sbglfyylx3-jzxowpz3j3.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\iu5wj7oy0z-umyg7gtxm1.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\a5jkpfqp75-uzolty4t3b.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q1kelo281c-xpsxo8ysqx.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dslaj9dvwg-944m73k1l2.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3mewpdzcx2-8iedmp327g.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dncoaunws6-qrphuqq62v.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3racp62du3-8p76qryeq3.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\prizyac5ph-lf66oaqdzy.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\9qn7a8qeyh-stjobud6ag.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\qlwfgvk4yt-953z14udjq.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\nb0tod9gfc-g5af900rc8.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\brorf2ozsz-5yw9wjj81b.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\e6o275dek6-9j89o1094i.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\l96llsbzvq-knqcdob5oc.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\w8yuamwi00-ew6qi9b000.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yk0cu0ot3n-0xzisyyjsw.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0o2of8ktyp-7pooasy4ni.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t6opeh1nnu-9tzzf4kvwo.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mcachgqd1c-zumjf4ixew.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\r46cz3ohvp-nu17hbtjz4.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t1cze3qrwn-jmsp8m27p4.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\o7i7rlw9el-23acoez3so.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\j4wq4qpu5r-cwt7vrsjku.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tsok62nu24-iekthumzg6.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\wkgwsd08yg-af3ezzzt6e.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\d578w3wfl0-hj1xx4whvu.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ckv0ccvp3y-ssp9f6gg9r.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3r0ncroqqf-w8y91i6v20.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7gbn3dgtqr-tg3k5t9ocs.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t4w4yw2yru-wldku4pcix.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\umfbc3mdvn-6n9hbhh318.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\o97ecwy1m2-4u87bld0zn.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\96u7n6ebjg-cet1z3omim.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cveg5urxmi-ol3ifil9yz.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\hokqkr634n-xgfep10f6d.gz
-C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1ugryb3fys-kklhldhh5d.gz
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Humanizer.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -236,3 +159,498 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\AdvancedStringBuilder.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JSPool.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\React.AspNet.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\React.AspNet.Middleware.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\React.Core.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru-RU\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win-x64\native\ChakraCore.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWriterAI.Infrastructure.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Contracts.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Services.dll
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWriterAI.Infrastructure.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Contracts.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Services.pdb
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\wwwroot\copygen-html\package.json.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\wwwroot\copygen-html\package.json
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\whqrrgce12-79uyo4ku7f.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tspr6472tr-mye9mcq68v.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\xn5sai0ove-1865zbffm5.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dy2c1wfsrn-3d8j9bwv60.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dwslkt658y-1tzxf73h6e.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kclkx5ty2e-k9kt203xym.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ddnfh79mp7-69b26udtb3.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\vr7ho80twt-0r4i4kkjy1.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yeob9cik1g-ybbfjwnyjo.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kow8c0l7zd-7bik6qotbp.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7v7jhpkfyn-vyjs8q2wbg.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1mi8jpmzwe-jmsp8m27p4.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q1kwb7yh28-23acoez3so.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\oodaawxkel-cwt7vrsjku.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tfrp8x68f2-iekthumzg6.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7vu1cfi2b5-af3ezzzt6e.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yvlns1j0pq-hj1xx4whvu.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\i6uy0e1nre-ssp9f6gg9r.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\c87li35z85-w8y91i6v20.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8mpjfmzjsr-i279twt750.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\m2vp4guf9f-wldku4pcix.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\htp6huv45h-dth6tzd6ip.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0y50b70gg5-k12udyj1c4.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\f6fpc9ulry-94kp6ao23t.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\j91njkv1md-ztj52ofi5o.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\krot0uofru-4qb1ty9f4s.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1zm6f7sb7q-v9t9f37l74.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0fc15kddok-mjl4b5l3yw.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8zcvgivy3i-gpitvuc0ko.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\py9pjn74wb-cis3g84r62.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7pc0o2mrdy-goo0i2nmre.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7d2mfvn3o6-q60e0ns0o7.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3yb5egahea-td56v29q8e.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3cxfe7q26l-v42q302ak5.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ldfsxi5cw7-74jd0mthr3.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\fgi32ndf33-iwnyvvvycu.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cdf5hasjus-4xri5j53b1.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\chdtby0b0f-snxanasbzh.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\sbglfyylx3-jzxowpz3j3.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\iu5wj7oy0z-umyg7gtxm1.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\a5jkpfqp75-uzolty4t3b.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q1kelo281c-xpsxo8ysqx.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dslaj9dvwg-944m73k1l2.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3mewpdzcx2-8iedmp327g.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dncoaunws6-qrphuqq62v.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3racp62du3-8p76qryeq3.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\prizyac5ph-lf66oaqdzy.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\9qn7a8qeyh-stjobud6ag.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\qlwfgvk4yt-953z14udjq.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\nb0tod9gfc-g5af900rc8.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\brorf2ozsz-5yw9wjj81b.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\e6o275dek6-9j89o1094i.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\l96llsbzvq-knqcdob5oc.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\w8yuamwi00-ew6qi9b000.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yk0cu0ot3n-0xzisyyjsw.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0o2of8ktyp-7pooasy4ni.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t6opeh1nnu-9tzzf4kvwo.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mcachgqd1c-zumjf4ixew.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\r46cz3ohvp-nu17hbtjz4.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t1cze3qrwn-jmsp8m27p4.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\o7i7rlw9el-23acoez3so.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\j4wq4qpu5r-cwt7vrsjku.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tsok62nu24-iekthumzg6.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\wkgwsd08yg-af3ezzzt6e.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\d578w3wfl0-hj1xx4whvu.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ckv0ccvp3y-ssp9f6gg9r.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3r0ncroqqf-w8y91i6v20.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7gbn3dgtqr-tg3k5t9ocs.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t4w4yw2yru-wldku4pcix.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\umfbc3mdvn-6n9hbhh318.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\o97ecwy1m2-4u87bld0zn.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\96u7n6ebjg-cet1z3omim.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cveg5urxmi-ol3ifil9yz.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\hokqkr634n-xgfep10f6d.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1ugryb3fys-kklhldhh5d.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\32s9ychk1v-n5nxuqd8ne.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\5dwzj7c2nv-y6y15lwhk8.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ots0yu99f2-58rvz67oe9.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\phf4cni7oy-ucq3ajd5jq.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3sli467jpk-j85w3ps3fj.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\xwxsuoibz8-d155qmw4en.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dz8qr992ic-zwd4lcvg0j.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\pttkadzj01-7uivubwhyc.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\i79migff0y-52oi3pjpfr.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dfvzm7w90s-okunamvsov.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8vg2eukchz-o72ffib3s7.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mhrm47mar5-zd61kud8ug.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\uueqxwf6ic-l4n9iujb8g.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\fnfcw0uaaw-yeh9173ctk.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8pd98cvx0p-kfanevtch4.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1klpq19waj-mfsp2wepwj.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\w4yx2ihakp-3ban2q516s.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tpykeptedn-sntxv0ri8p.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\38zwtyacn2-g4elr7vkot.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6tgv4m1nj8-ms7ha8ibzm.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\f9ot4nrewn-0qp23bx9je.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\bzn25szfvw-gw0u5nvdf0.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\u2bwcdy5tf-ehyo030a3k.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\08tijycgxj-zm0pz2d9a1.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\nji00dy6y5-inr9tztuh6.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\30tm473lmy-jrmbbzdt2n.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7mlfz7njgc-diyq332pj2.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\c2k9qdb4uy-bhsfn71pk5.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\plzfitvn40-v20u0qun1b.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ygacuzezsx-493y06b0oq.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6tt23qy9un-pbi57e33ig.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\2nc8vjpljd-puwj48id9s.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\bxmdn49a5i-9nscwl9pmv.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\uzcws3fppi-p7hj2jktuy.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\u3xkd91jvw-2pkppwvjbk.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\2wvcaekqk4-lq9j21wqbe.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3www51it7c-9gfujd5jyb.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6p7xfrflmn-r8l7q294zv.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1flew48wg1-c0h1obugvj.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mrwa7but51-xrddeyect9.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\n8or7w6ke4-cw5axfdyo9.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\s96va7m0iu-eoitr99uni.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q6t5lwit3l-9nna2m86hr.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\qvzjzgz30a-cvcc75vipy.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1e0mu67m0m-10i79b5bnd.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6s8f7bnoqv-3nymglkm2p.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\bp6vp4xxcc-4i7kaf22iq.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\symhidmglq-89qqaoukuk.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\692l4wwk6l-hlp50ms3kj.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\y7axlfmuvl-201o76xhyc.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kfqs1di60g-fh6suphpsd.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\l5nn87glae-0ls78tkx34.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Site\copygen-html\package-lock.json
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\03aj7ncd6h-62v7144sfm.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\waifl88no0-ccoch24eld.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mza6abyeq7-5bgmxs2e60.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cbwt6q2s73-s6d9n76ouh.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\u9bitfdbki-rf8rj4faog.gz
+C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\zaz2ncm6lf-76gxmqt2rh.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\wwwroot\copygen-html\package.json.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\wwwroot\copygen-html\package.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\appsettings.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Site\copygen-html\package-lock.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Site\copygen-html\package.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.staticwebassets.endpoints.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.staticwebassets.runtime.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.exe
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.deps.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.runtimeconfig.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\AdvancedStringBuilder.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\EntityFramework.SqlServer.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\EntityFramework.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\EntityFramework6.Npgsql.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\JSPool.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\React.AspNet.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\React.AspNet.Middleware.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\React.Core.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru-RU\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win-x64\native\ChakraCore.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\DataBase.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWriterAI.Infrastructure.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Contracts.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Services.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\DataBase.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWriterAI.Infrastructure.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Contracts.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\bin\Debug\net9.0\WebWritterAI.Services.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.RazorAssemblyInfo.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.RazorAssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.sourcelink.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\scopedcss\bundle\WebWritterAI.styles.css
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\whqrrgce12-79uyo4ku7f.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tspr6472tr-mye9mcq68v.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\xn5sai0ove-1865zbffm5.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dy2c1wfsrn-3d8j9bwv60.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dwslkt658y-1tzxf73h6e.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kclkx5ty2e-k9kt203xym.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ddnfh79mp7-69b26udtb3.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\vr7ho80twt-0r4i4kkjy1.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yeob9cik1g-ybbfjwnyjo.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kow8c0l7zd-7bik6qotbp.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7v7jhpkfyn-vyjs8q2wbg.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1mi8jpmzwe-jmsp8m27p4.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q1kwb7yh28-23acoez3so.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\oodaawxkel-cwt7vrsjku.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tfrp8x68f2-iekthumzg6.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7vu1cfi2b5-af3ezzzt6e.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yvlns1j0pq-hj1xx4whvu.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\i6uy0e1nre-ssp9f6gg9r.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\c87li35z85-w8y91i6v20.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8mpjfmzjsr-i279twt750.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\m2vp4guf9f-wldku4pcix.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\htp6huv45h-dth6tzd6ip.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0y50b70gg5-k12udyj1c4.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\f6fpc9ulry-94kp6ao23t.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\j91njkv1md-ztj52ofi5o.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\krot0uofru-4qb1ty9f4s.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1zm6f7sb7q-v9t9f37l74.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0fc15kddok-mjl4b5l3yw.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8zcvgivy3i-gpitvuc0ko.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\py9pjn74wb-cis3g84r62.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7pc0o2mrdy-goo0i2nmre.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7d2mfvn3o6-q60e0ns0o7.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3yb5egahea-td56v29q8e.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3cxfe7q26l-v42q302ak5.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ldfsxi5cw7-74jd0mthr3.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\fgi32ndf33-iwnyvvvycu.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cdf5hasjus-4xri5j53b1.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\chdtby0b0f-snxanasbzh.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\sbglfyylx3-jzxowpz3j3.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\iu5wj7oy0z-umyg7gtxm1.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\a5jkpfqp75-uzolty4t3b.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q1kelo281c-xpsxo8ysqx.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dslaj9dvwg-944m73k1l2.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3mewpdzcx2-8iedmp327g.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dncoaunws6-qrphuqq62v.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3racp62du3-8p76qryeq3.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\prizyac5ph-lf66oaqdzy.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\9qn7a8qeyh-stjobud6ag.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\qlwfgvk4yt-953z14udjq.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\nb0tod9gfc-g5af900rc8.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\brorf2ozsz-5yw9wjj81b.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\e6o275dek6-9j89o1094i.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\l96llsbzvq-knqcdob5oc.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\w8yuamwi00-ew6qi9b000.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\yk0cu0ot3n-0xzisyyjsw.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\0o2of8ktyp-7pooasy4ni.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t6opeh1nnu-9tzzf4kvwo.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mcachgqd1c-zumjf4ixew.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\03aj7ncd6h-62v7144sfm.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\r46cz3ohvp-nu17hbtjz4.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t1cze3qrwn-jmsp8m27p4.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\o7i7rlw9el-23acoez3so.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\j4wq4qpu5r-cwt7vrsjku.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tsok62nu24-iekthumzg6.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\wkgwsd08yg-af3ezzzt6e.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\d578w3wfl0-hj1xx4whvu.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ckv0ccvp3y-ssp9f6gg9r.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3r0ncroqqf-w8y91i6v20.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7gbn3dgtqr-tg3k5t9ocs.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3sli467jpk-j85w3ps3fj.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cbwt6q2s73-s6d9n76ouh.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mza6abyeq7-5bgmxs2e60.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\5dwzj7c2nv-y6y15lwhk8.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\u9bitfdbki-rf8rj4faog.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ots0yu99f2-58rvz67oe9.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\phf4cni7oy-ucq3ajd5jq.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\t4w4yw2yru-wldku4pcix.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\32s9ychk1v-n5nxuqd8ne.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\zaz2ncm6lf-76gxmqt2rh.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\umfbc3mdvn-6n9hbhh318.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\o97ecwy1m2-4u87bld0zn.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\96u7n6ebjg-cet1z3omim.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\cveg5urxmi-ol3ifil9yz.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\hokqkr634n-xgfep10f6d.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1ugryb3fys-kklhldhh5d.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\xwxsuoibz8-d155qmw4en.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dz8qr992ic-zwd4lcvg0j.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\pttkadzj01-7uivubwhyc.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\i79migff0y-52oi3pjpfr.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\dfvzm7w90s-okunamvsov.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8vg2eukchz-o72ffib3s7.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mhrm47mar5-zd61kud8ug.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\uueqxwf6ic-l4n9iujb8g.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\fnfcw0uaaw-yeh9173ctk.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\8pd98cvx0p-kfanevtch4.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1klpq19waj-mfsp2wepwj.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\w4yx2ihakp-3ban2q516s.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\tpykeptedn-sntxv0ri8p.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\38zwtyacn2-g4elr7vkot.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6tgv4m1nj8-ms7ha8ibzm.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\f9ot4nrewn-0qp23bx9je.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\bzn25szfvw-gw0u5nvdf0.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\u2bwcdy5tf-ehyo030a3k.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\08tijycgxj-zm0pz2d9a1.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\nji00dy6y5-inr9tztuh6.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\30tm473lmy-jrmbbzdt2n.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\7mlfz7njgc-diyq332pj2.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\c2k9qdb4uy-bhsfn71pk5.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\plzfitvn40-v20u0qun1b.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\ygacuzezsx-493y06b0oq.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6tt23qy9un-pbi57e33ig.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\2nc8vjpljd-puwj48id9s.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\bxmdn49a5i-9nscwl9pmv.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\uzcws3fppi-p7hj2jktuy.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\u3xkd91jvw-2pkppwvjbk.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\2wvcaekqk4-lq9j21wqbe.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\3www51it7c-9gfujd5jyb.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6p7xfrflmn-r8l7q294zv.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1flew48wg1-c0h1obugvj.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\mrwa7but51-xrddeyect9.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\n8or7w6ke4-cw5axfdyo9.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\s96va7m0iu-eoitr99uni.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\q6t5lwit3l-9nna2m86hr.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\qvzjzgz30a-cvcc75vipy.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\kfqs1di60g-fh6suphpsd.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\1e0mu67m0m-10i79b5bnd.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\6s8f7bnoqv-3nymglkm2p.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\bp6vp4xxcc-4i7kaf22iq.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\l5nn87glae-0ls78tkx34.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\symhidmglq-89qqaoukuk.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\692l4wwk6l-hlp50ms3kj.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\y7axlfmuvl-201o76xhyc.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\compressed\waifl88no0-ccoch24eld.gz
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets\msbuild.WebWritterAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets\msbuild.WebWritterAI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets\msbuild.build.WebWritterAI.props
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebWritterAI.props
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebWritterAI.props
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritt.85B844ED.Up2Date
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\refint\WebWritterAI.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\WebWritterAI.genruntimeconfig.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWritterAI\obj\Debug\net9.0\ref\WebWritterAI.dll

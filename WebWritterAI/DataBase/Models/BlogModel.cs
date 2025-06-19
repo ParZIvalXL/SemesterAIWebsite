@@ -8,5 +8,6 @@ public class BlogModel
     public string UserAvatar { get; set; }
     public string UserName { get; set; }
     public DateTime Date { get; set; }
-    public string TimeToRead { get; set; }
+    public int TimeToRead { get; set; }
+    public string Image { get; set; }
 }

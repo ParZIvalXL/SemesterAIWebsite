@@ -11,6 +11,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.2",
+    "jquery": "^3.7.1",
     "masonry-layout": "^4.2.2",
     "pristinejs": "^1.0.0",
     "swiper": "^8.4.4",

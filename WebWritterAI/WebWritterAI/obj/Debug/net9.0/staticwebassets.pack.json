@@ -1,1300 +1,1700 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\gulpfile.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\gulpfile.js",
       "PackagePath": "staticwebassets\\copygen-html\\gulpfile.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\404-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\404-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\404-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\404.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\404.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\404.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\504-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\504-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\504-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\504.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\504.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\504.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\about.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\about.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\about.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style-s2.css",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style-s2.css",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\css\\style-s2.css"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style-s3.css",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style-s3.css",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\css\\style-s3.css"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style-s4.css",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style-s4.css",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\css\\style-s4.css"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\theme.css",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\css\\theme.css",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\css\\theme.css"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.eot",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.eot",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\Nioicon.eot"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\Nioicon.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\Nioicon.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\Nioicon.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\Nioicon.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\PlusJakartaSans-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.woff",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\fonts\\SplineSans-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\gradient\\a-blur.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\gradient\\a-blur.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\gradient\\a-blur.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\gradient\\a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\gradient\\a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\gradient\\a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\pattern\\dot-a-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\pattern\\dot-a-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\pattern\\dot-a-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\pattern\\dot-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\pattern\\dot-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\pattern\\dot-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\pattern\\noise-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\pattern\\noise-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\pattern\\noise-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-b.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-c.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-c.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-c.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-d.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-d.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-d.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-e.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-e.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-e.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-f.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-f.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-f.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-g.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-g.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-g.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-h.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-h.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-h.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-i.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-i.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-i.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-j.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-j.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-j.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-k.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-k.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-k.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-l.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-l.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-l.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-m.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-m.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-m.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-n.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-n.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-n.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-o.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-o.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-o.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-p.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-p.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-p.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-q.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-q.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-q.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-r.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\blur-r.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\blur-r.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\border-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-b.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\border-b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-c.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-c.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\border-c.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-d.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-d.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\border-d.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-e.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-e.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\border-e.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-f.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\shape\\border-f.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\shape\\border-f.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\wormhole-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\images\\wormhole-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\images\\wormhole-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\js\\bundle.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\js\\bundle.js",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\js\\bundle.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\js\\scripts.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\assets\\js\\scripts.js",
       "PackagePath": "staticwebassets\\copygen-html\\html\\assets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\blog-single.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\blog-single.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\blog-single.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\blog.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\blog.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\blog.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\contact-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\contact-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\contact-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\contact.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\contact.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\contact.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\features.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\features.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\features.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\index.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\index.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\index.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\message-form.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\message-form.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\message-form.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\Exception.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\Exception.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\php-mailer\\Exception.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\OAuth.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\OAuth.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\php-mailer\\OAuth.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\OAuthTokenProvider.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\OAuthTokenProvider.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\php-mailer\\OAuthTokenProvider.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\PHPMailer.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\PHPMailer.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\php-mailer\\PHPMailer.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\POP3.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\POP3.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\php-mailer\\POP3.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\SMTP.php",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\form\\php-mailer\\SMTP.php",
       "PackagePath": "staticwebassets\\copygen-html\\html\\form\\php-mailer\\SMTP.php"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-b.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-b.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-b.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-c.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-c.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-c.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-d.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-d.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-d.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-e.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-e.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-e.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-f.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-f.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-f.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-g.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-g.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-g.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-h.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-h.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-h.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-i.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-i.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-i.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-j.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-j.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-j.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-k.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-k.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-k.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-l.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-l.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-l.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-m.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-m.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-m.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-n.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-n.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-n.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-o.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-o.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-o.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-p.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\author\\sm-p.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\author\\sm-p.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\illustration\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\b.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\b.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\illustration\\b.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\c.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\c.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\illustration\\c.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\d.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\illustration\\d.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\illustration\\d.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\testimonials\\md-a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\testimonials\\md-a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\testimonials\\md-a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\testimonials\\md-b.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\avatar\\testimonials\\md-b.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\avatar\\testimonials\\md-b.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\b.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\b.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\b.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\c.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\c.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\c.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\cover.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\cover.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\cover.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\d.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\d.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\d.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\e.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\e.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\e.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\f.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\f.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\f.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\g.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\g.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\g.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\h.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\h.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\h.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\i.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\blog\\i.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\blog\\i.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-a-tone-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-a-tone-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-a-tone-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-a-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-a-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-a-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-b-tone-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-b-tone-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-b-tone-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-b-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-b-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-b-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-b.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-c-tone-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-c-tone-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-c-tone-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-c-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-c-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-c-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-c.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-c.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-c.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-d-tone-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-d-tone-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-d-tone-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-d-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-d-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-d-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-d.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-d.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-d.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-e-tone-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-e-tone-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-e-tone-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-e-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-e-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-e-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-e.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\brands\\72-e.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\brands\\72-e.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\favicon.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\favicon.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\about.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\about.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\about.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\b.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\c.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\c.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\c.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\d.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\d.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\d.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\e.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\e.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\e.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\f.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\f.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\f.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\g.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\banner\\g.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\banner\\g.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\error\\404.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\error\\404.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\error\\404.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\error\\504.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\error\\504.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\error\\504.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\feature\\a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\feature\\a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\feature\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\feature\\b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\feature\\b.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\feature\\b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\a-alt.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\a-alt.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\process\\a-alt.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\process\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\b-alt.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\b-alt.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\process\\b-alt.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\b.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\b.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\process\\b.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\c-alt.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\c-alt.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\process\\c-alt.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\c.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\process\\c.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\process\\c.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\a.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\a.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\usecase\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\b.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\b.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\usecase\\b.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\c.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\c.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\usecase\\c.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\d.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\d.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\usecase\\d.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\e.jpg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\gfx\\usecase\\e.jpg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\gfx\\usecase\\e.jpg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\articles.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\articles.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\articles.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\edit.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\edit.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\edit.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\hand-mic.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\hand-mic.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\hand-mic.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\paper.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\paper.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\paper.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\praying-hand.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\praying-hand.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\praying-hand.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\product-discription.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\product-discription.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\product-discription.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\stock-up.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\stock-up.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\stock-up.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\text.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\text.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\text.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\website.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\icon\\website.svg",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\icon\\website.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-dark.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-dark2x.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-dark2x.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\logo-dark2x.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-green-dark.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-green-dark.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\logo-green-dark.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-green-dark2x.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo-green-dark2x.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\logo-green-dark2x.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo2x.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\logo2x.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\logo2x.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\1-light.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\1-light.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\number\\1-light.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\1.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\1.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\number\\1.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\2-light.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\2-light.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\number\\2-light.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\2.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\2.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\number\\2.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\3-light.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\3-light.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\number\\3-light.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\3.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\images\\number\\3.png",
       "PackagePath": "staticwebassets\\copygen-html\\html\\images\\number\\3.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\index-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s3.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s3.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\index-s3.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s4.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s4.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\index-s4.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s5.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index-s5.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\index-s5.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\index.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\index.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\login-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\login-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\login-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\login.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\login.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\login.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\pricing-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\pricing-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\pricing-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\pricing.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\pricing.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\pricing.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\register-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\register-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\register-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\register.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\register.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\register.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\reset-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\reset-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\reset-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\reset.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\reset.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\reset.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\success-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\success-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\success-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\success.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\success.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\success.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\terms-condition.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\terms-condition.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\terms-condition.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase-details-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase-details-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\usecase-details-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase-details.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase-details.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\usecase-details.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase-s2.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase-s2.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\usecase-s2.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\html\\usecase.html",
       "PackagePath": "staticwebassets\\copygen-html\\html\\usecase.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\package.json",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\package-lock.json",
+      "PackagePath": "staticwebassets\\copygen-html\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\package.json",
       "PackagePath": "staticwebassets\\copygen-html\\package.json"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.eot",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.eot",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\Nioicon.eot"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\Nioicon.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\Nioicon.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\Nioicon.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\Nioicon.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-ExtraBold.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\PlusJakartaSans-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.svg",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.svg",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.svg"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.ttf",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.ttf",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.woff",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.woff",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.woff2",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.woff2",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\fonts\\SplineSans-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\gradient\\a-blur.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\gradient\\a-blur.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\gradient\\a-blur.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\gradient\\a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\gradient\\a.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\gradient\\a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\pattern\\dot-a-white.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\pattern\\dot-a-white.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\pattern\\dot-a-white.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\pattern\\dot-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\pattern\\dot-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\pattern\\dot-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\pattern\\noise-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\pattern\\noise-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\pattern\\noise-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-b.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-c.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-c.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-c.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-d.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-d.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-d.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-e.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-e.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-e.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-f.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-f.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-f.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-g.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-g.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-g.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-h.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-h.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-h.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-i.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-i.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-i.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-j.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-j.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-j.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-k.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-k.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-k.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-l.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-l.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-l.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-m.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-m.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-m.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-n.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-n.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-n.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-o.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-o.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-o.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-p.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-p.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-p.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-q.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-q.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-q.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-r.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\blur-r.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\blur-r.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\border-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-b.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-b.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\border-b.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-c.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-c.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\border-c.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-d.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-d.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\border-d.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-e.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-e.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\border-e.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-f.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\shape\\border-f.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\shape\\border-f.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\wormhole-a.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\assets\\images\\wormhole-a.png",
       "PackagePath": "staticwebassets\\copygen-html\\src\\assets\\images\\wormhole-a.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\bundle.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\LoginCheck.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\LoginCheck.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\UserTableScript.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\UserTableScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\bundle.js",
       "PackagePath": "staticwebassets\\copygen-html\\src\\js\\bundle.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\scripts.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\buyPlan.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\buyPlan.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\fetchData.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\fetchData.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\loginPageValidator.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\loginPageValidator.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\profileInfoProvider.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\profileInfoProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\registerPageValidator.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\registerPageValidator.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\resetPageValidator.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\resetPageValidator.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\scripts.js",
       "PackagePath": "staticwebassets\\copygen-html\\src\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\vendors\\nioapp.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\unloggedRedirect.js",
+      "PackagePath": "staticwebassets\\copygen-html\\src\\js\\unloggedRedirect.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\js\\vendors\\nioapp.js",
       "PackagePath": "staticwebassets\\copygen-html\\src\\js\\vendors\\nioapp.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables-s2.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables-s2.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\_variables-s2.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables-s3.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables-s3.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\_variables-s3.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables-s4.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables-s4.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\_variables-s4.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\_components.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\_components.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\_components.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\_layouts.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\_layouts.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\_layouts.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\_utilites.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\_utilites.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\_utilites.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_background.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_background.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_content.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_content.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_content.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_link.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_link.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_link.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_media.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_media.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_pricing.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_pricing.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_pricing.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_text.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_text.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_wgs.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\components\\_wgs.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\components\\_wgs.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\fonts\\_plus-jakarta-sans.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\fonts\\_plus-jakarta-sans.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\fonts\\_plus-jakarta-sans.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\fonts\\_spline-sans.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\fonts\\_spline-sans.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\fonts\\_spline-sans.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\forms\\_validation.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\functions\\_pxtorem.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\functions\\_pxtorem.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\functions\\_pxtorem.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\functions\\_variable.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\functions\\_variable.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\functions\\_variable.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_base.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_base.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\layouts\\_base.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_header.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_header.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\layouts\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_logo.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_logo.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\layouts\\_logo.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_section.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\layouts\\_section.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\layouts\\_section.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_keyframes.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_keyframes.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\utilites\\_keyframes.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_misc.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_misc.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\utilites\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_reboot.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_reboot.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\utilites\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_spacing.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\core\\utilites\\_spacing.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\core\\utilites\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\_bootstrap.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\_bootstrap.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\_bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\_extend.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\_extend.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\_extend.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\_variables.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_accordion.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_accordion.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_buttons.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_card.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_card.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_nav.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_nav.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\components\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_color.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_color.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_color.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_extended.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_extended.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_extended.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_misc.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_misc.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_root.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_root.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\extend\\bootstrap\\utilites\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style-s2.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style-s2.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\style-s2.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style-s3.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style-s3.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\style-s3.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style-s4.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style-s4.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\style-s4.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\style.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\theme.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\theme.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\theme.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\_bundle.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\_bundle.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\vendors\\_bundle.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\nioicon\\_variables.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\nioicon\\_variables.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\vendors\\nioicon\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\nioicon\\nioicon.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\nioicon\\nioicon.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\vendors\\nioicon\\nioicon.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\swiper\\_swiper.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\swiper\\_swiper.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\vendors\\swiper\\_swiper.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\typed\\_typed.scss",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\copygen-html\\src\\scss\\vendors\\typed\\_typed.scss",
       "PackagePath": "staticwebassets\\copygen-html\\src\\scss\\vendors\\typed\\_typed.scss"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\docs\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\assets\\js\\bundle.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\assets\\js\\bundle.js",
       "PackagePath": "staticwebassets\\docs\\assets\\js\\bundle.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\assets\\js\\scripts.js",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\assets\\js\\scripts.js",
       "PackagePath": "staticwebassets\\docs\\assets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\changelog.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\changelog.html",
       "PackagePath": "staticwebassets\\docs\\changelog.html"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\images\\favicon.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\images\\favicon.png",
       "PackagePath": "staticwebassets\\docs\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\images\\logo-dark.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\docs\\images\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\images\\logo-dark2x.png",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\images\\logo-dark2x.png",
       "PackagePath": "staticwebassets\\docs\\images\\logo-dark2x.png"
     },
     {
-      "Id": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\index.html",
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\docs\\index.html",
       "PackagePath": "staticwebassets\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\1-3B5RGB5V.jpg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\1-3B5RGB5V.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\1-OXF5CDM5.png",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\1-OXF5CDM5.png"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\16-F5GWPOBH.png",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\16-F5GWPOBH.png"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\2-C72XOCQD.png",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\2-C72XOCQD.png"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bg-img1-DI5AVZDO.jpg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bg-img1-DI5AVZDO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bg-img2-C2YKDT3W.jpg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bg-img2-C2YKDT3W.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bg-img3-MTBKJ6VH.jpg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bg-img3-MTBKJ6VH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bg-img4-LU3MJYKM.jpg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bg-img4-LU3MJYKM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bg-img5-2PPTYMVI.jpg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bg-img5-2PPTYMVI.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bootstrap-icons-AS3UZHFJe8a7.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bootstrap-icons-AS3UZHFJe8a7.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\bootstrap-icons-ZL57OFYPe8a7.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\bootstrap-icons-ZL57OFYPe8a7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\boxicons-5JNJQPUP.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\boxicons-5JNJQPUP.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\boxicons-6NVWQSCQ.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\boxicons-6NVWQSCQ.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\boxicons-AQ5N6WP7.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\boxicons-AQ5N6WP7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\boxicons-GDR4JU3X.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\boxicons-GDR4JU3X.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\boxicons-NNFHLMORd41d.svg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\boxicons-NNFHLMORd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\feather-webfont-4QUFNMOI6cfa.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\feather-webfont-4QUFNMOI6cfa.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\feather-webfont-RJOT3FRU.svg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\feather-webfont-RJOT3FRU.svg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\feather-webfont-XC6AAHIC.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\feather-webfont-XC6AAHIC.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-CIWECNZM.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-CIWECNZM.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-D3A7B5PJ.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-D3A7B5PJ.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-INB5BQB2.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-INB5BQB2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-JDUJSY44.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-JDUJSY44.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-JDUJSY44d41d.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-JDUJSY44d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-O3J3RJOS.svg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-brands-400-O3J3RJOS.svg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-34F2J7YZ.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-34F2J7YZ.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-6RPJSTIW.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-6RPJSTIW.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-LYMOBRDA.svg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-LYMOBRDA.svg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-PNT4KM2T.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-PNT4KM2T.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-PNT4KM2Td41d.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-PNT4KM2Td41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-X6VKWRSW.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-regular-400-X6VKWRSW.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-K3G53YR3.svg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-K3G53YR3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-LAWDUD4I.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-LAWDUD4I.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-PXMBKEUD.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-PXMBKEUD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-QVUSAB64.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-QVUSAB64.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-QVUSAB64d41d.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-QVUSAB64d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-RZOHS333.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\la-solid-900-RZOHS333.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\remixicon-B6TYQNEG0b0b.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\remixicon-B6TYQNEG0b0b.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\remixicon-BRVJTNCR0b0b.svg",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\remixicon-BRVJTNCR0b0b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\remixicon-SE6OC3C70b0b.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\remixicon-SE6OC3C70b0b.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\remixicon-YMLS4N6S0b0b.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\remixicon-YMLS4N6S0b0b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\remixicon-YXA6Q4670b0b.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\remixicon-YXA6Q4670b0b.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-OVRORFYK399c.ttf",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-OVRORFYK399c.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-PUQHNPZI399c.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-PUQHNPZI399c.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-PUQHNPZId41d.eot",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-PUQHNPZId41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-TY3YUCTXd41d.woff",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-TY3YUCTXd41d.woff"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-UH3GCQ6L399c.woff2",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\tabler-icons-UH3GCQ6L399c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\css\\transparent-YCQASJQ4.png",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\css\\transparent-YCQASJQ4.png"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\choices.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\choices.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\custom-switcher.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\custom-switcher.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\datatables.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\defaultmenu.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\defaultmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\prism-custom.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\prism-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\simplebar.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\sticky.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\js\\tom-select.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\js\\tom-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\@popperjs\\core\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\@popperjs\\core\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\@simonwep\\pickr\\pickr.es5.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\@simonwep\\pickr\\pickr.es5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\@simonwep\\pickr\\themes\\nano.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\@simonwep\\pickr\\themes\\nano.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\jsvectormap\\css\\jsvectormap.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\jsvectormap\\css\\jsvectormap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\node-waves\\waves.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\node-waves\\waves.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\prismjs\\prism.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\prismjs\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\prismjs\\themes\\prism-coy.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\prismjs\\themes\\prism-coy.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\simplebar\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\simplebar\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\tom-select\\css\\tom-select.default.min.css",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\tom-select\\css\\tom-select.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\assets\\libs\\tom-select\\js\\tom-select.complete.min.js",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\assets\\libs\\tom-select\\js\\tom-select.complete.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\buttons.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\datatables.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\datatables.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\dropdown.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\form-elements.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\form-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\form-layouts.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\form-layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\form-select.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\form-select.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\h.__vL\\index6d93.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\h.__vL\\index6d93.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\index.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\WebWritterAI\\wwwroot\\synto\\bootstrap\\dist\\html\\tables.html",
+      "PackagePath": "staticwebassets\\synto\\bootstrap\\dist\\html\\tables.html"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebWritterAI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -4,6 +4,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWritterAI", "WebWritterA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{461C9251-0D21-4243-95E1-CF6C0265C5A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWriterAI.Infrastructure", "WebWriterAI.Infrastructure\WebWriterAI.Infrastructure.csproj", "{57D0E83A-C42A-489B-8B8D-A5EC37C0453E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWritterAI.Services", "WebWritterAI.Services\WebWritterAI.Services.csproj", "{25AE3364-6EAE-4F23-968C-A4F53E64BE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWritterAI.Contracts", "WebWritterAI.Contracts\WebWritterAI.Contracts.csproj", "{F8B7D203-A237-4079-BB0E-F28D77A5BC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eko", "Eko\Eko.csproj", "{5233DC27-7246-45FF-AF9C-EC86C0B11B53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,21 @@ Global
 		{461C9251-0D21-4243-95E1-CF6C0265C5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{461C9251-0D21-4243-95E1-CF6C0265C5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{461C9251-0D21-4243-95E1-CF6C0265C5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D0E83A-C42A-489B-8B8D-A5EC37C0453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D0E83A-C42A-489B-8B8D-A5EC37C0453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D0E83A-C42A-489B-8B8D-A5EC37C0453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D0E83A-C42A-489B-8B8D-A5EC37C0453E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AE3364-6EAE-4F23-968C-A4F53E64BE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AE3364-6EAE-4F23-968C-A4F53E64BE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AE3364-6EAE-4F23-968C-A4F53E64BE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AE3364-6EAE-4F23-968C-A4F53E64BE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B7D203-A237-4079-BB0E-F28D77A5BC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B7D203-A237-4079-BB0E-F28D77A5BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B7D203-A237-4079-BB0E-F28D77A5BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B7D203-A237-4079-BB0E-F28D77A5BC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5233DC27-7246-45FF-AF9C-EC86C0B11B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5233DC27-7246-45FF-AF9C-EC86C0B11B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5233DC27-7246-45FF-AF9C-EC86C0B11B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5233DC27-7246-45FF-AF9C-EC86C0B11B53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

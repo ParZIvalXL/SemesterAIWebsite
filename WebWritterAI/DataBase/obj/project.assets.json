@@ -3892,11 +3892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\DataBase\\DataBase.csproj",
+      "projectUniqueName": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\DataBase\\DataBase.csproj",
       "projectName": "DataBase",
-      "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\DataBase\\DataBase.csproj",
+      "projectPath": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\DataBase\\DataBase.csproj",
       "packagesPath": "C:\\Users\\Рузиль\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программи рование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\DataBase\\obj\\",
+      "outputPath": "C:\\Users\\Рузиль\\Desktop\\Программирование\\Семестровка 4 сем\\SemesterAIWebsite\\WebWritterAI\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Рузиль\\AppData\\Roaming\\NuGet\\NuGet.Config",

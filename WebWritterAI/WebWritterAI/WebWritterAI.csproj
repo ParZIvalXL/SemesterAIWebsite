@@ -7,11 +7,17 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+        <PackageReference Include="JavaScriptEngineSwitcher.ChakraCore" Version="3.27.3" />
+        <PackageReference Include="JavaScriptEngineSwitcher.ChakraCore.Native.win-x64" Version="3.27.3" />
+        <PackageReference Include="JavaScriptEngineSwitcher.Extensions.MsDependencyInjection" Version="3.24.1" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.5" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1"/>
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.5">
           <PrivateAssets>all</PrivateAssets>
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
+        <PackageReference Include="React.AspNet" Version="5.2.12" />
         <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="8.1.2" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="8.1.2" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="8.1.2" />
@@ -19,336 +25,15 @@
 
     <ItemGroup>
       <Folder Include="Site\" />
+      <Folder Include="Views\UseCases\" />
+      <Folder Include="wwwroot\Test\" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\DataBase\DataBase.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <None Include="wwwroot\copygen-html\gulpfile.js" />
-      <None Include="wwwroot\copygen-html\html\404-s2.html" />
-      <None Include="wwwroot\copygen-html\html\404.html" />
-      <None Include="wwwroot\copygen-html\html\504-s2.html" />
-      <None Include="wwwroot\copygen-html\html\504.html" />
-      <None Include="wwwroot\copygen-html\html\about.html" />
-      <None Include="wwwroot\copygen-html\html\assets\css\style-s2.css" />
-      <None Include="wwwroot\copygen-html\html\assets\css\style-s3.css" />
-      <None Include="wwwroot\copygen-html\html\assets\css\style-s4.css" />
-      <None Include="wwwroot\copygen-html\html\assets\css\style.css" />
-      <None Include="wwwroot\copygen-html\html\assets\css\theme.css" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\Nioicon.eot" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\Nioicon.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\Nioicon.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\Nioicon.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Bold.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Bold.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Bold.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Bold.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-ExtraBold.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-ExtraBold.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-ExtraBold.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-ExtraBold.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Medium.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Medium.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Medium.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Medium.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Regular.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Regular.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Regular.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\PlusJakartaSans-Regular.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Bold.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Bold.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Bold.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Bold.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Medium.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Medium.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Medium.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Medium.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Regular.svg" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Regular.ttf" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Regular.woff" />
-      <None Include="wwwroot\copygen-html\html\assets\fonts\SplineSans-Regular.woff2" />
-      <None Include="wwwroot\copygen-html\html\assets\images\gradient\a-blur.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\gradient\a.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\pattern\dot-a-white.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\pattern\dot-a.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\pattern\noise-a.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-a.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-b.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-c.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-d.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-e.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-f.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-g.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-h.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-i.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-j.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-k.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-l.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-m.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-n.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-o.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-p.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-q.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\blur-r.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\border-a.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\border-b.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\border-c.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\border-d.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\border-e.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\shape\border-f.png" />
-      <None Include="wwwroot\copygen-html\html\assets\images\wormhole-a.png" />
-      <None Include="wwwroot\copygen-html\html\assets\js\bundle.js" />
-      <None Include="wwwroot\copygen-html\html\assets\js\scripts.js" />
-      <None Include="wwwroot\copygen-html\html\blog-single.html" />
-      <None Include="wwwroot\copygen-html\html\blog.html" />
-      <None Include="wwwroot\copygen-html\html\contact-s2.html" />
-      <None Include="wwwroot\copygen-html\html\contact.html" />
-      <None Include="wwwroot\copygen-html\html\features.html" />
-      <None Include="wwwroot\copygen-html\html\form\index.html" />
-      <None Include="wwwroot\copygen-html\html\form\message-form.php" />
-      <None Include="wwwroot\copygen-html\html\form\php-mailer\Exception.php" />
-      <None Include="wwwroot\copygen-html\html\form\php-mailer\OAuth.php" />
-      <None Include="wwwroot\copygen-html\html\form\php-mailer\OAuthTokenProvider.php" />
-      <None Include="wwwroot\copygen-html\html\form\php-mailer\PHPMailer.php" />
-      <None Include="wwwroot\copygen-html\html\form\php-mailer\POP3.php" />
-      <None Include="wwwroot\copygen-html\html\form\php-mailer\SMTP.php" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-b.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-c.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-d.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-e.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-f.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-g.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-h.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-i.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-j.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-k.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-l.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-m.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-n.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-o.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\author\sm-p.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\illustration\a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\illustration\b.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\illustration\c.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\illustration\d.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\testimonials\md-a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\avatar\testimonials\md-b.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\b.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\c.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\cover.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\d.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\e.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\f.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\g.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\h.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\blog\i.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-a-tone-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-a-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-a.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-b-tone-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-b-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-b.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-c-tone-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-c-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-c.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-d-tone-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-d-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-d.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-e-tone-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-e-white.png" />
-      <None Include="wwwroot\copygen-html\html\images\brands\72-e.png" />
-      <None Include="wwwroot\copygen-html\html\images\favicon.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\about.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\b.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\c.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\d.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\e.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\f.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\banner\g.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\error\404.svg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\error\504.svg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\feature\a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\feature\b.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\process\a-alt.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\process\a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\process\b-alt.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\process\b.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\process\c-alt.png" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\process\c.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\usecase\a.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\usecase\b.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\usecase\c.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\usecase\d.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\gfx\usecase\e.jpg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\articles.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\edit.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\hand-mic.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\paper.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\praying-hand.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\product-discription.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\stock-up.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\text.svg" />
-      <None Include="wwwroot\copygen-html\html\images\icon\website.svg" />
-      <None Include="wwwroot\copygen-html\html\images\logo-dark.png" />
-      <None Include="wwwroot\copygen-html\html\images\logo-dark2x.png" />
-      <None Include="wwwroot\copygen-html\html\images\logo-green-dark.png" />
-      <None Include="wwwroot\copygen-html\html\images\logo-green-dark2x.png" />
-      <None Include="wwwroot\copygen-html\html\images\logo.png" />
-      <None Include="wwwroot\copygen-html\html\images\logo2x.png" />
-      <None Include="wwwroot\copygen-html\html\images\number\1-light.png" />
-      <None Include="wwwroot\copygen-html\html\images\number\1.png" />
-      <None Include="wwwroot\copygen-html\html\images\number\2-light.png" />
-      <None Include="wwwroot\copygen-html\html\images\number\2.png" />
-      <None Include="wwwroot\copygen-html\html\images\number\3-light.png" />
-      <None Include="wwwroot\copygen-html\html\images\number\3.png" />
-      <None Include="wwwroot\copygen-html\html\index-s2.html" />
-      <None Include="wwwroot\copygen-html\html\index-s3.html" />
-      <None Include="wwwroot\copygen-html\html\index-s4.html" />
-      <None Include="wwwroot\copygen-html\html\index-s5.html" />
-      <None Include="wwwroot\copygen-html\html\index.html" />
-      <None Include="wwwroot\copygen-html\html\login-s2.html" />
-      <None Include="wwwroot\copygen-html\html\login.html" />
-      <None Include="wwwroot\copygen-html\html\pricing-s2.html" />
-      <None Include="wwwroot\copygen-html\html\pricing.html" />
-      <None Include="wwwroot\copygen-html\html\register-s2.html" />
-      <None Include="wwwroot\copygen-html\html\register.html" />
-      <None Include="wwwroot\copygen-html\html\reset-s2.html" />
-      <None Include="wwwroot\copygen-html\html\reset.html" />
-      <None Include="wwwroot\copygen-html\html\success-s2.html" />
-      <None Include="wwwroot\copygen-html\html\success.html" />
-      <None Include="wwwroot\copygen-html\html\terms-condition.html" />
-      <None Include="wwwroot\copygen-html\html\usecase-details-s2.html" />
-      <None Include="wwwroot\copygen-html\html\usecase-details.html" />
-      <None Include="wwwroot\copygen-html\html\usecase-s2.html" />
-      <None Include="wwwroot\copygen-html\html\usecase.html" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\Nioicon.eot" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\Nioicon.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\Nioicon.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\Nioicon.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Bold.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Bold.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Bold.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Bold.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-ExtraBold.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-ExtraBold.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-ExtraBold.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-ExtraBold.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Medium.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Medium.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Medium.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Medium.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Regular.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Regular.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Regular.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\PlusJakartaSans-Regular.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Bold.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Bold.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Bold.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Bold.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Medium.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Medium.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Medium.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Medium.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Regular.svg" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Regular.ttf" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Regular.woff" />
-      <None Include="wwwroot\copygen-html\src\assets\fonts\SplineSans-Regular.woff2" />
-      <None Include="wwwroot\copygen-html\src\assets\images\gradient\a-blur.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\gradient\a.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\pattern\dot-a-white.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\pattern\dot-a.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\pattern\noise-a.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-a.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-b.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-c.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-d.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-e.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-f.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-g.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-h.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-i.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-j.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-k.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-l.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-m.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-n.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-o.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-p.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-q.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\blur-r.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\border-a.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\border-b.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\border-c.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\border-d.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\border-e.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\shape\border-f.png" />
-      <None Include="wwwroot\copygen-html\src\assets\images\wormhole-a.png" />
-      <None Include="wwwroot\copygen-html\src\js\bundle.js" />
-      <None Include="wwwroot\copygen-html\src\js\scripts.js" />
-      <None Include="wwwroot\copygen-html\src\js\vendors\nioapp.js" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_background.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_content.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_link.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_media.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_pricing.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_text.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\components\_wgs.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\fonts\_plus-jakarta-sans.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\fonts\_spline-sans.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\forms\_validation.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\functions\_pxtorem.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\functions\_variable.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\layouts\_base.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\layouts\_header.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\layouts\_logo.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\layouts\_section.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\utilites\_keyframes.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\utilites\_misc.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\utilites\_reboot.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\utilites\_spacing.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\_components.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\_layouts.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\core\_utilites.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\components\_accordion.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\components\_buttons.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\components\_card.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\components\_nav.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\forms\_form-check.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\forms\_form-control.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\utilites\_color.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\utilites\_extended.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\utilites\_misc.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\utilites\_root.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\_bootstrap.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\_extend.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\extend\bootstrap\_variables.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\style-s2.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\style-s3.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\style-s4.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\style.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\theme.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\vendors\nioicon\nioicon.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\vendors\nioicon\_variables.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\vendors\swiper\_swiper.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\vendors\typed\_typed.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\vendors\_bundle.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\_variables-s2.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\_variables-s3.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\_variables-s4.scss" />
-      <None Include="wwwroot\copygen-html\src\scss\_variables.scss" />
-      <None Include="wwwroot\docs\assets\css\style.css" />
-      <None Include="wwwroot\docs\assets\js\bundle.js" />
-      <None Include="wwwroot\docs\assets\js\scripts.js" />
-      <None Include="wwwroot\docs\changelog.html" />
-      <None Include="wwwroot\docs\images\favicon.png" />
-      <None Include="wwwroot\docs\images\logo-dark.png" />
-      <None Include="wwwroot\docs\images\logo-dark2x.png" />
-      <None Include="wwwroot\docs\index.html" />
+      <ProjectReference Include="..\WebWriterAI.Infrastructure\WebWriterAI.Infrastructure.csproj" />
+      <ProjectReference Include="..\WebWritterAI.Contracts\WebWritterAI.Contracts.csproj" />
+      <ProjectReference Include="..\WebWritterAI.Services\WebWritterAI.Services.csproj" />
     </ItemGroup>
 
     <ItemGroup>
@@ -363,6 +48,22 @@
         <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
         <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       </Content>
+      <Content Update="Views\Admin\panel.cshtml">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\js\app.tsx" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\assets\css\style.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\assets\js\bundle.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\assets\js\scripts.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\changelog.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\images\favicon.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\images\logo-dark.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\images\logo-dark2x.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Test\docs\index.html" />
     </ItemGroup>
 
 </Project>

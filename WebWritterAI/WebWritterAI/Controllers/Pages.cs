@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using WebWritterAI.Services;
 
 namespace WebWritterAI.Controllers.Services;
 
@@ -6,10 +7,18 @@ namespace WebWritterAI.Controllers.Services;
 [Route("/")]
 public class Pages : Controller
 {
-    [HttpGet]
-    public IActionResult Index()
+    private readonly PricingService _pricingService;
+    
+    public Pages(PricingService pricingService)
     {
-        return View();
+        _pricingService = pricingService;
+    }
+    
+    [HttpGet]
+    public async Task<IActionResult> Index()
+    {
+        var pricings = await _pricingService.GetPricings();
+        return View("index", pricings);
     }
     
     [HttpGet("about")]
@@ -36,18 +45,6 @@ public class Pages : Controller
         return View();
     }
     
-    [HttpGet("login")]
-    public IActionResult Login()
-    {
-        return View();
-    }
-    
-    [HttpGet("register")]
-    public IActionResult Register()
-    {
-        return View();
-    }
-    
     [HttpGet("404")]
     public IActionResult NotFoundPage()
     {
@@ -60,15 +57,21 @@ public class Pages : Controller
         return View("504");
     }
     
-    [HttpGet("reset")]
-    public IActionResult Reset()
-    {
-        return View();
-    }
-    
     [HttpGet("features")]
     public IActionResult Features()
     {
         return View();
+    }
+    
+    [HttpGet("usecase")]
+    public IActionResult UseCase()
+    {
+        return View();
+    }
+    
+    [HttpGet("usecase-details")]
+    public IActionResult UseCaseDetails()
+    {
+        return View("usecase-details");
     }
 }
