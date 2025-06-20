@@ -13,3 +13,18 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.genruntimeconfig.cache
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\ref\DataBase.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\bin\Debug\net9.0\DataBase.deps.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\bin\Debug\net9.0\DataBase.runtimeconfig.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\bin\Debug\net9.0\DataBase.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\bin\Debug\net9.0\DataBase.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.sourcelink.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\refint\DataBase.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\DataBase.genruntimeconfig.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\DataBase\obj\Debug\net9.0\ref\DataBase.dll

@@ -301,9 +301,6 @@
             } catch (error) {
                 console.error('Error in sendMessage:', error);
                 showError('Ошибка при отправке сообщения: ' + error.message);
-            } finally {
-                isWaitingForAI = false;
-                sendButton.disabled = false;
             }
         }
 

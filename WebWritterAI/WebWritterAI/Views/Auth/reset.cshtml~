@@ -68,7 +68,7 @@
                                         </form>
                                     </div>
                                 </div><!-- .card -->
-                                <p class="text-center mt-4"><a class="link has-gap g-2" href="/auth/login"><em class="icon ni ni-arrow-left"></em><span>Back to Login</span></a></p>
+                                <p class="text-center mt-4"><a class="link has-gap g-2" href="login.html"><em class="icon ni ni-arrow-left"></em><span>Back to Login</span></a></p>
                             </div>
                         </div>
                     </div><!-- .section-content -->

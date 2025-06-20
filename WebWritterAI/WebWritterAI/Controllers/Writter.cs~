@@ -46,7 +46,7 @@ public class Writter : Controller
         return View("chat");
     }
     
-    [HttpPost("send/{chatId}")]
+    [HttpPost("send")]
     public async Task<IActionResult> Send(Guid chatId, [FromBody] ChatRequest request)
     {
         try

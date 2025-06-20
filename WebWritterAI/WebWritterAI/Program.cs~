@@ -60,6 +60,10 @@ builder.Services.AddHttpClient("Ollama", client =>
 });
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddReact();
+builder.Services
+    .AddJsEngineSwitcher(options => options.DefaultEngineName = ChakraCoreJsEngine.EngineName)
+    .AddChakraCore();
 
 var app = builder.Build();
 

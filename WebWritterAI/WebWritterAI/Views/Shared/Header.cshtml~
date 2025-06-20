@@ -60,7 +60,7 @@
                                 </li>
                             </ul><!-- .nk-menu-list -->
                             <ul class="nk-menu-buttons flex-lg-row-reverse">
-                                <li><a href="/writter/chat" class="btn btn-primary">Start Writing</a></li>
+                                <li><a href="#" class="btn btn-primary">Start Writing</a></li>
                                 <li><a class="link link-dark" style="display: none;" href="/Auth/login" id="login-button">Login</a></li>
                                 <li class="nk-menu-item has-dropdown" style="display: none;" id="profile-dropdown">
                                     <a href="#" class="nk-menu-link nk-menu-toggle">

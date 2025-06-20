@@ -16,3 +16,21 @@ C:\Users\Рузиль\Desktop\Программи рование\Семестро
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.pdb
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.genruntimeconfig.cache
 C:\Users\Рузиль\Desktop\Программи рование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\ref\WebWriterAI.Infrastructure.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\bin\Debug\net9.0\WebWriterAI.Infrastructure.deps.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\bin\Debug\net9.0\WebWriterAI.Infrastructure.runtimeconfig.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\bin\Debug\net9.0\WebWriterAI.Infrastructure.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\bin\Debug\net9.0\WebWriterAI.Infrastructure.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\bin\Debug\net9.0\DataBase.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\bin\Debug\net9.0\DataBase.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.AssemblyInfo.cs
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.sourcelink.json
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWrite.71029632.Up2Date
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\refint\WebWriterAI.Infrastructure.dll
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.pdb
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\WebWriterAI.Infrastructure.genruntimeconfig.cache
+C:\Users\Рузиль\Desktop\Программирование\Семестровка 4 сем\SemesterAIWebsite\WebWritterAI\WebWriterAI.Infrastructure\obj\Debug\net9.0\ref\WebWriterAI.Infrastructure.dll

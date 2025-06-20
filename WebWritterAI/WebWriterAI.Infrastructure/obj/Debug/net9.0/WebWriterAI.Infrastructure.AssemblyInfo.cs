@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebWriterAI.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+152441682158d8d0263dfce871ff1d6775ad04ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9523917396c71eefafc6b409dc68b0c1308b9a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebWriterAI.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebWriterAI.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
